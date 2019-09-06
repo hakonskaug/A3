@@ -8,14 +8,14 @@ Date:			28th October, 2018
 */
 
 
-
+/*
 DISCLAIMER!:
 I did not feel that the assignment was completely clear about how certain functions would work: Escpecially the "Replay"-function.
 After reading the assignment again, I see that you may have wanted a different way commanding the objects:
 	i.e: up(n), down(n), left(n). I do not feel that changes much however.
 I could have improved this code in several way. Specially when it comes to statements. I could've transformed the char value of the objects
 to integer instead, to make some statements more "automatic", without having to specify what object one is using.
-*
+*/
 
 using namespace std;
 int moveNumber = 0, movesA = 0, movesB = 0;		//Variables to keep track of moves
