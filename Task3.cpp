@@ -8,7 +8,7 @@ Date:			28th October, 2018
 */
 
 
-/*
+
 DISCLAIMER!:
 I did not feel that the assignment was completely clear about how certain functions would work: Escpecially the "Replay"-function.
 After reading the assignment again, I see that you may have wanted a different way commanding the objects:
